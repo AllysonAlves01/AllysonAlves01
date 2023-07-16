@@ -10,7 +10,7 @@ Ferramentas e Tecnologias
           
 - 😃 Atualmente estou em processo de transição de carreira, migrando para o mundo DEV! Hoje trabalho como vendedor em uma loja de matérias de construção.
 - ⭐ Atualmente estou cursando o primeiro semestre em análise e desenvolvimento de sistemas na instituição Impacta Tecnologia.
-- Também sou estudante na Alura, focado em programação Back-End.  
+- Também sou estudante na Alura, aprendo atualmente a linguagem JAVA.  
 - 👯 Estou em busca de uma oportunidade como estagiário.
 - 📫 Contatos:
   <div> 
