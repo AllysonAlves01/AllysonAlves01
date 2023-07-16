@@ -12,5 +12,6 @@ Ferramentas e Tecnologias
 - ⭐ Atualmente estou cursando o primeiro semestre em análise e desenvolvimento de sistemas na instituição Impacta Tecnologia.
 - Também sou estudante na Alura, focado em programação Back-End.  
 - 👯 Estou em busca de uma oportunidade como estagiário.
-- 📫 Contatos: <a href="https://www.linkedin.com/in/linkedin.com/in/allyson-alves-2a1414195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 📫 Contatos:
+- <a href="https://www.linkedin.com/in/allyson-alves-2a1414195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
