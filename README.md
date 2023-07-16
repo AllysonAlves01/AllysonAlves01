@@ -13,5 +13,7 @@ Ferramentas e Tecnologias
 - Também sou estudante na Alura, focado em programação Back-End.  
 - 👯 Estou em busca de uma oportunidade como estagiário.
 - 📫 Contatos:
+  <div> 
  <a href="https://www.linkedin.com/in/allyson-alves-2a1414195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
   
