@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá pessoal! Seja bem-vindo ao meu perfil do Github! 👋
 
-<!--
-**AllysonAlves01/AllysonAlves01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 23 anos, moro na zona norte de São Paulo/SP, sou apaixonado por tecnologia! inclusivamente por programação.❤ 
+Sou apenas um iniciante em busca de novos conhecimentos e desafios.
 
-Here are some ideas to get you started:
+Ferramentas e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+          
+          
+          
+
+- 😃 Atualmente estou em processo de transição de carreira, migrando para o mundo DEV! Hoje trabalho como vendedor em uma loja de matérias de construção.
+- ⭐ Atualmente estou cursando o primeiro semestre em análise e desenvolvimento de sistemas na instituição Impacta Tecnologia.
+- Também sou estudante na Alura, focado em programação Back-End.  
+- 👯 Estou em busca de uma oportunidade como estagiário.
+- 📫 Entre em contato comigo através do link - > linkedin.com/in/allyson-alves-2a1414195
+  
