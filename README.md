@@ -5,7 +5,7 @@ Sou apenas um iniciante em busca de novos conhecimentos e desafios.
 
 Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#3776AB</font></font>
           
 - 😃 Atualmente estou em processo de transição de carreira, migrando para o mundo DEV! Hoje trabalho como vendedor em uma loja de matérias de construção.
 - ⭐ Atualmente estou cursando o segundo semestre em análise e desenvolvimento de sistemas na instituição Impacta Tecnologia.
