@@ -14,7 +14,7 @@ Ferramentas e Tecnologias
           
           
 - 😃 Atualmente estou em processo de transição de carreira, migrando para o mundo DEV! Hoje trabalho como vendedor em uma loja de matérias de construção.
-- ⭐ Atualmente estou cursando o segundo semestre em análise e desenvolvimento de sistemas na instituição Impacta Tecnologia.
+- ⭐ Atualmente estou cursando o segundo semestre em análise e desenvolvimento de sistemas na instituição Impacta Tecnologia, com previsão de término 12/2025.
 - 🤝 Estou em busca de uma oportunidade na área de desenvolvimento como estagiário.
 - 📫 Contatos:
   <div> 
