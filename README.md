@@ -1,7 +1,8 @@
 Olá pessoal! Seja bem-vindo ao meu perfil do Github! 👋
 
-Tenho 23 anos, moro na zona norte de São Paulo/SP, sou mais um apaixonado por tecnologia! inclusivamente por programação.❤ 
-Sou apenas um iniciante em busca de novos conhecimentos e desafios.
+Atualmente, sou Analista de Suporte Técnico I na Locaweb, onde aplico minhas especializações em servidores Windows e Linux, contribuindo para a eficiência e segurança na hospedagem de sites dos nossos clientes. No ambiente acadêmico, estou cursando Análise e Desenvolvimento de Sistemas na Impacta Tecnologia, o que fortalece constantemente minhas competências técnicas.
+
+Com formações complementares em Java, foco no desenvolvimento de soluções back-end robustas e confiáveis. Valorizo continuamente o aprendizado e estou em busca de desafios que me permitam crescer profissionalmente, mantendo um compromisso com a inovação.
 
 Ferramentas e Tecnologias
 
