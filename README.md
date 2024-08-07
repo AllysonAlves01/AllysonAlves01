@@ -14,9 +14,8 @@ Ferramentas e Tecnologias
           
           
           
-- 😃 Atualmente estou em processo de transição de carreira, migrando para o mundo DEV! Hoje trabalho como vendedor em uma loja de matérias de construção.
-- ⭐ Atualmente estou cursando o segundo semestre em análise e desenvolvimento de sistemas na instituição Impacta Tecnologia, com previsão de término 12/2025.
-- 🤝 Estou em busca de uma oportunidade na área de desenvolvimento como estagiário.
+- ⭐ Atualmente estou cursando o terceiro semestre em análise e desenvolvimento de sistemas na instituição Impacta Tecnologia, com previsão de término 12/2025.
+- 🤝 Estou em busca de uma oportunidade na área de desenvolvimento.
 - 📫 Contatos:
   <div> 
      <a href="https://www.linkedin.com/in/allyson-alves-2a1414195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "allyson.silvacosta02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
