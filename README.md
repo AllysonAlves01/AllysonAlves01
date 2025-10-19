@@ -1,8 +1,6 @@
 Olá pessoal! Seja bem-vindo ao meu perfil do Github! 👋
 
-Atualmente, sou Analista de Suporte Técnico I na Locaweb, onde aplico minhas especializações em servidores Windows e Linux, contribuindo para a eficiência e segurança na hospedagem de sites dos nossos clientes. No ambiente acadêmico, estou cursando Análise e Desenvolvimento de Sistemas na Impacta Tecnologia, o que fortalece constantemente minhas competências técnicas.
-
-Com formações complementares em Java, foco no desenvolvimento de soluções back-end robustas e confiáveis. Valorizo continuamente o aprendizado e estou em busca de desafios que me permitam crescer profissionalmente, mantendo um compromisso com a inovação.
+Atuo como Analista de Sistemas Júnior na Mapfre Seguros, focado em resolução de vulnerabilidades e Obsolescência. Minha experiência inclui a correção de falhas em sistemas, servidores e bancos de dados, garantindo um ambiente seguro e em conformidade com as melhores práticas.No ambiente acadêmico, estou cursando Análise e Desenvolvimento de Sistemas na Impacta Tecnologia, o que fortalece constantemente minhas competências técnicas.
 
 Ferramentas e Tecnologias
 
